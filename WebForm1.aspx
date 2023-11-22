@@ -18,7 +18,7 @@
             <br />
             <br />
             <br />
-            <asp:Button ID="btnSubmit" runat="server" OnClick="Button1_Click" Text="Submit" />
+            <asp:Button ID="btnSubmit" runat="server" OnClick="Button1_Click" Text="byebitch" />
             <br />
         </div>
     </form>
